@@ -3,10 +3,7 @@ them 1 comit C1
 
 them 1 comit C2
 
-<<<<<<< HEAD
 them 1 comit C3
 
 them 1 comit C4
-=======
 them 1 commit B2
->>>>>>> beta1
